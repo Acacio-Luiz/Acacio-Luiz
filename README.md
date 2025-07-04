@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje Trabalho Com Desenvolvimento de Software
-- 🌱 Estudando TypeScript
-- 😄 Pronouns: ele/dele
+- 📚 Estou Estudando TypeScript
+- 🚀 Em Migração de Carreira
 -->
 
   <div>
